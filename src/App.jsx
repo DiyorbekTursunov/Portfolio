@@ -12,7 +12,7 @@ function App() {
           <Hero />
           <MyProjects />
           <AboutMe />
-          {/* <ContactMe /> */}
+          <ContactMe />
         </div>
       </div>
     </>
